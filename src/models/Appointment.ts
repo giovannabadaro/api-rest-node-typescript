@@ -1,9 +1,9 @@
 import { uuid } from 'uuidv4'
 
 class Appointment {
-  id: String;
+  id: string;
 
-  provider: String;
+  provider: string;
 
   date: Date;
 
